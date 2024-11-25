@@ -17,13 +17,13 @@
             <li class="dropdown">
                 <a href="#">Soal</a>
                 <div class="dropdown-content">
-                    <a href="/tampil_data.php">Soal 1</a>
-                    <a href="/tampil_data2.php">Soal 2</a>
-                    <a href="/tampil_data3.php">Soal 3</a>
-                    <a href="/tampil_data4.php">Soal 4</a>
-                    <a href="/tampil_data5.php">Soal 5</a>
-                    <a href="/tampil_data6.php">Soal 6</a>
-                    <a href="/tampil_data7.php">Soal 7</a>
+                    <a href="tampil_data.php">Soal 1</a>
+                    <a href="tampil_data2.php">Soal 2</a>
+                    <a href="tampil_data3.php">Soal 3</a>
+                    <a href="tampil_data4.php">Soal 4</a>
+                    <a href="tampil_data5.php">Soal 5</a>
+                    <a href="tampil_data6.php">Soal 6</a>
+                    <a href="tampil_data7.php">Soal 7</a>
                     <!-- Tambahkan tautan ke halaman lainnya di sini -->
                 </div>
             </li>
